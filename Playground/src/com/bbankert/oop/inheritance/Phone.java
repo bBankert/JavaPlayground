@@ -1,7 +1,7 @@
 package com.bbankert.oop.inheritance;
 
 public class Phone extends Product {
-	// Default constructor
+		// Default constructor
 		public Phone() {
 			super("Nokia");
 			System.out.println("Some code");

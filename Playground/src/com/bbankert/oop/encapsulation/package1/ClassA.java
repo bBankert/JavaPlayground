@@ -1,7 +1,7 @@
 package com.bbankert.oop.encapsulation.package1;
 
 public class ClassA {
-public void doSomething() {
+	public void doSomething() {
 		
 	}
 	

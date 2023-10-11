@@ -1,6 +1,8 @@
 package com.bbankert.oop.interfaces;
 
 public interface PaymentProcessor {
+	
+	// equivalent to public static final int RETRY_ATTEMPTS
 	int RETRY_ATTEPMPTS = 5;
 	
 	void processPayment(PaymentData payment);
